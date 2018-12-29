@@ -12,9 +12,1407 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-12-24T23:27:12.950+01:00
-  initializedAtString: 2018-12-24T23:27:12.950+01:00
+  lastUpdatedAtString: 2018-12-24T23:49:40.479+01:00
+  initializedAtString: 2018-12-24T23:49:40.479+01:00
   log:
+  - commitID: 0d7588fa04d95adea5be05d0fd84ddad81865309
+    mergeA: 
+    mergeB: 
+    authorName: RosieMable
+    authorEmail: sciarrillo.nella@gmail.com
+    commitEmail: sciarrillo.nella@gmail.com
+    commitName: RosieMable
+    summary: lfs?
+    description: lfs?
+    timeString: 2018-12-24T23:47:05.000+01:00
+    commitTimeString: 2018-12-24T23:47:05.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: D:\GitHub\ShadersStudy\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\CurrentLayout.dwlt
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\EditorInstance.json
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.StandardEvents.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+      projectPath: Library\ShaderCache\0\05d5a85b8d977b5925a3e6b10850d086.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+      projectPath: Library\ShaderCache\b\b0419e7b75c949155020ba2977442e26.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      projectPath: Library\UIElements\EditorWindows\UnityEditor.PackageManager.UI.PackageManagerWindow.pref
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\assetDatabase3
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\expandedItems
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\branches.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\gituser.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\01\011a5869475926f44b495bf414fe48f6.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\01\011a5869475926f44b495bf414fe48f6.info
+      projectPath: Library\metadata\01\011a5869475926f44b495bf414fe48f6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\13\136dc24f151211d438acee17aff4e934
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\19\1918bdfaa80e482428fec5935cf5aaae
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\19\1918bdfaa80e482428fec5935cf5aaae
+      projectPath: Library\metadata\19\1918bdfaa80e482428fec5935cf5aaae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\19\1918bdfaa80e482428fec5935cf5aaae.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\19\1918bdfaa80e482428fec5935cf5aaae.info
+      projectPath: Library\metadata\19\1918bdfaa80e482428fec5935cf5aaae.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\21\219646ab8af949b47a1757fd7636de65
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\21\219646ab8af949b47a1757fd7636de65
+      projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+      projectPath: Library\metadata\21\219646ab8af949b47a1757fd7636de65.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\23\23c8bee69b591054094d32918f98facd
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\24\245f62fc39d723b4fb38b47d098cbbe8
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\24\245f62fc39d723b4fb38b47d098cbbe8
+      projectPath: Library\metadata\24\245f62fc39d723b4fb38b47d098cbbe8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\24\245f62fc39d723b4fb38b47d098cbbe8.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\24\245f62fc39d723b4fb38b47d098cbbe8.info
+      projectPath: Library\metadata\24\245f62fc39d723b4fb38b47d098cbbe8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\2e\2eda4dfda5e9e9144a8eb46e942538ec
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\2e\2eda4dfda5e9e9144a8eb46e942538ec
+      projectPath: Library\metadata\2e\2eda4dfda5e9e9144a8eb46e942538ec
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\2e\2eda4dfda5e9e9144a8eb46e942538ec.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\2e\2eda4dfda5e9e9144a8eb46e942538ec.info
+      projectPath: Library\metadata\2e\2eda4dfda5e9e9144a8eb46e942538ec.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\30\305b6e818055a104982596b94deddcef
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\30\305b6e818055a104982596b94deddcef
+      projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\30\305b6e818055a104982596b94deddcef.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\30\305b6e818055a104982596b94deddcef.info
+      projectPath: Library\metadata\30\305b6e818055a104982596b94deddcef.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\3f\3f201a6d917c0754984f54101fa7ceb5
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\3f\3f201a6d917c0754984f54101fa7ceb5
+      projectPath: Library\metadata\3f\3f201a6d917c0754984f54101fa7ceb5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\3f\3f201a6d917c0754984f54101fa7ceb5.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\3f\3f201a6d917c0754984f54101fa7ceb5.info
+      projectPath: Library\metadata\3f\3f201a6d917c0754984f54101fa7ceb5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\49\49061b7c5514d7b4094e621d24f25b02
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\49\49061b7c5514d7b4094e621d24f25b02
+      projectPath: Library\metadata\49\49061b7c5514d7b4094e621d24f25b02
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\49\49061b7c5514d7b4094e621d24f25b02.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\49\49061b7c5514d7b4094e621d24f25b02.info
+      projectPath: Library\metadata\49\49061b7c5514d7b4094e621d24f25b02.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\58\58d58d3b0df424d45aeb7d355d273b3e
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\58\58d58d3b0df424d45aeb7d355d273b3e
+      projectPath: Library\metadata\58\58d58d3b0df424d45aeb7d355d273b3e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\58\58d58d3b0df424d45aeb7d355d273b3e.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\58\58d58d3b0df424d45aeb7d355d273b3e.info
+      projectPath: Library\metadata\58\58d58d3b0df424d45aeb7d355d273b3e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\6a\6aa461cb8448bec4d947a2d867ff5de6
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\6a\6aa461cb8448bec4d947a2d867ff5de6
+      projectPath: Library\metadata\6a\6aa461cb8448bec4d947a2d867ff5de6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\6a\6aa461cb8448bec4d947a2d867ff5de6.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\6a\6aa461cb8448bec4d947a2d867ff5de6.info
+      projectPath: Library\metadata\6a\6aa461cb8448bec4d947a2d867ff5de6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\73\73df2678310e1d04e9d2a89b0641691f
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\73\73df2678310e1d04e9d2a89b0641691f
+      projectPath: Library\metadata\73\73df2678310e1d04e9d2a89b0641691f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\73\73df2678310e1d04e9d2a89b0641691f.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\73\73df2678310e1d04e9d2a89b0641691f.info
+      projectPath: Library\metadata\73\73df2678310e1d04e9d2a89b0641691f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\7e\7e801f7d1247b664699c09d955c5893c
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\7e\7e801f7d1247b664699c09d955c5893c
+      projectPath: Library\metadata\7e\7e801f7d1247b664699c09d955c5893c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\7e\7e801f7d1247b664699c09d955c5893c.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\7e\7e801f7d1247b664699c09d955c5893c.info
+      projectPath: Library\metadata\7e\7e801f7d1247b664699c09d955c5893c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
+      projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+      projectPath: Library\metadata\7e\7e9edc5c0a650b94399165badb935cf6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\86\860a66ca4259b384f9ec01b687f71c3c
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\86\860a66ca4259b384f9ec01b687f71c3c
+      projectPath: Library\metadata\86\860a66ca4259b384f9ec01b687f71c3c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\86\860a66ca4259b384f9ec01b687f71c3c.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\86\860a66ca4259b384f9ec01b687f71c3c.info
+      projectPath: Library\metadata\86\860a66ca4259b384f9ec01b687f71c3c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\87\877ef3585573ce44eab899298be23158
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\87\877ef3585573ce44eab899298be23158
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\99\99ba4e16cc550ca46997b20b3378610f
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\99\99ba4e16cc550ca46997b20b3378610f
+      projectPath: Library\metadata\99\99ba4e16cc550ca46997b20b3378610f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\99\99ba4e16cc550ca46997b20b3378610f.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\99\99ba4e16cc550ca46997b20b3378610f.info
+      projectPath: Library\metadata\99\99ba4e16cc550ca46997b20b3378610f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\9c\9c90a8479b2ec704c82be0a78c610dc4
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\9c\9c90a8479b2ec704c82be0a78c610dc4
+      projectPath: Library\metadata\9c\9c90a8479b2ec704c82be0a78c610dc4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\9c\9c90a8479b2ec704c82be0a78c610dc4.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\9c\9c90a8479b2ec704c82be0a78c610dc4.info
+      projectPath: Library\metadata\9c\9c90a8479b2ec704c82be0a78c610dc4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\ab\ab03a4657484b2e468be124b4540c857
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\ab\ab03a4657484b2e468be124b4540c857
+      projectPath: Library\metadata\ab\ab03a4657484b2e468be124b4540c857
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\ab\ab03a4657484b2e468be124b4540c857.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\ab\ab03a4657484b2e468be124b4540c857.info
+      projectPath: Library\metadata\ab\ab03a4657484b2e468be124b4540c857.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\b2\b280649167dc6e741a273adc57f01052
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\b2\b280649167dc6e741a273adc57f01052
+      projectPath: Library\metadata\b2\b280649167dc6e741a273adc57f01052
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\b2\b280649167dc6e741a273adc57f01052.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\b2\b280649167dc6e741a273adc57f01052.info
+      projectPath: Library\metadata\b2\b280649167dc6e741a273adc57f01052.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\ba\ba0158cb3e90b40a998507011a60bad6
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\ba\ba0158cb3e90b40a998507011a60bad6
+      projectPath: Library\metadata\ba\ba0158cb3e90b40a998507011a60bad6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\metadata\ba\ba0158cb3e90b40a998507011a60bad6.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\ba\ba0158cb3e90b40a998507011a60bad6.info
+      projectPath: Library\metadata\ba\ba0158cb3e90b40a998507011a60bad6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
+      projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+      projectPath: Library\metadata\bf\bf6307933617bbc4f9db1223166cc8cb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c2\c22385db8ec57ac42b978690e52dec8c
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c2\c22385db8ec57ac42b978690e52dec8c
+      projectPath: Library\metadata\c2\c22385db8ec57ac42b978690e52dec8c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
+      projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+      projectPath: Library\metadata\e3\e3de62aa69c211e4b8c90fc16f6d350e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\ShadersStudy.sln
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\ShadersStudy.sln
+      projectPath: ShadersStudy.sln
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ShadersStudy\Temp\ProcessJobs\311df2444e9ed9b2a929ff38fc3980c7.bakert
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\ProcessJobs\311df2444e9ed9b2a929ff38fc3980c7.bakert
+      projectPath: Temp\ProcessJobs\311df2444e9ed9b2a929ff38fc3980c7.bakert
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\TarGZ\archtemp.tar
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\TarGZ\archtemp.tar
+      projectPath: Temp\TarGZ\archtemp.tar
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityLockfile
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityLockfile
+      projectPath: Temp\UnityLockfile
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-08ff1469f4b985543a3bc42ffe72caac
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-08ff1469f4b985543a3bc42ffe72caac
+      projectPath: Temp\UnityTempFile-08ff1469f4b985543a3bc42ffe72caac
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-15aacfcd472b28a4eb37481acde2ecfe
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-15aacfcd472b28a4eb37481acde2ecfe
+      projectPath: Temp\UnityTempFile-15aacfcd472b28a4eb37481acde2ecfe
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-295fabde738c71f469c1a4cfdf261086
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-295fabde738c71f469c1a4cfdf261086
+      projectPath: Temp\UnityTempFile-295fabde738c71f469c1a4cfdf261086
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-3f3a41da81c938d45b0939a76d59ab6a
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-3f3a41da81c938d45b0939a76d59ab6a
+      projectPath: Temp\UnityTempFile-3f3a41da81c938d45b0939a76d59ab6a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-53e0c97e290689e429a25348777b7767
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-53e0c97e290689e429a25348777b7767
+      projectPath: Temp\UnityTempFile-53e0c97e290689e429a25348777b7767
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-57de909d71e100d4cb8a708734cd0fae
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-57de909d71e100d4cb8a708734cd0fae
+      projectPath: Temp\UnityTempFile-57de909d71e100d4cb8a708734cd0fae
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-6c5a3a76e367d94479077ec02c7d37df
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-6c5a3a76e367d94479077ec02c7d37df
+      projectPath: Temp\UnityTempFile-6c5a3a76e367d94479077ec02c7d37df
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-7d504d1b1700e8d408e4a92cbf24a77c
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-7d504d1b1700e8d408e4a92cbf24a77c
+      projectPath: Temp\UnityTempFile-7d504d1b1700e8d408e4a92cbf24a77c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-812a50bc8122ede4d9405ef3fb759aa1
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-812a50bc8122ede4d9405ef3fb759aa1
+      projectPath: Temp\UnityTempFile-812a50bc8122ede4d9405ef3fb759aa1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-93451abaf95b58345b59821035cae0c2
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-93451abaf95b58345b59821035cae0c2
+      projectPath: Temp\UnityTempFile-93451abaf95b58345b59821035cae0c2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-9d2ebd96842eaa0469acae42884284f0
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-9d2ebd96842eaa0469acae42884284f0
+      projectPath: Temp\UnityTempFile-9d2ebd96842eaa0469acae42884284f0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-a2457a4368a4a44479a555a5fd007da1
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-a2457a4368a4a44479a555a5fd007da1
+      projectPath: Temp\UnityTempFile-a2457a4368a4a44479a555a5fd007da1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-b47a025ccf4909848a5e09b8d16961c2
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-b47a025ccf4909848a5e09b8d16961c2
+      projectPath: Temp\UnityTempFile-b47a025ccf4909848a5e09b8d16961c2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-bc1eb4f3f2dec4d43bc176655c320d2e
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-bc1eb4f3f2dec4d43bc176655c320d2e
+      projectPath: Temp\UnityTempFile-bc1eb4f3f2dec4d43bc176655c320d2e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-c3016018aa11fd642a53a7792a39ba52
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-c3016018aa11fd642a53a7792a39ba52
+      projectPath: Temp\UnityTempFile-c3016018aa11fd642a53a7792a39ba52
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-ca7fae7d08c42094782ad05ff57dfba7
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-ca7fae7d08c42094782ad05ff57dfba7
+      projectPath: Temp\UnityTempFile-ca7fae7d08c42094782ad05ff57dfba7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-ce6fc93fc4538f743aae85deb85d2797
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-ce6fc93fc4538f743aae85deb85d2797
+      projectPath: Temp\UnityTempFile-ce6fc93fc4538f743aae85deb85d2797
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-d80d3e2ab94450746b0f4cf15b596c97
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-d80d3e2ab94450746b0f4cf15b596c97
+      projectPath: Temp\UnityTempFile-d80d3e2ab94450746b0f4cf15b596c97
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-f57f7e3e802b08b468d8f2c1c336aa51
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-f57f7e3e802b08b468d8f2c1c336aa51
+      projectPath: Temp\UnityTempFile-f57f7e3e802b08b468d8f2c1c336aa51
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-f6e649440050ded469bd92edb3fd6a1d
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-f6e649440050ded469bd92edb3fd6a1d
+      projectPath: Temp\UnityTempFile-f6e649440050ded469bd92edb3fd6a1d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ShadersStudy\Temp\UnityTempFile-f8e3cfdc7304c69448d9036d61a23d94
+      fullPath: D:\GitHub\ShadersStudy\ShadersStudy\Temp\UnityTempFile-f8e3cfdc7304c69448d9036d61a23d94
+      projectPath: Temp\UnityTempFile-f8e3cfdc7304c69448d9036d61a23d94
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: 80cfd4694fa1fe6f4fe41bf1de5f28db1baff19d
     mergeA: 
     mergeB: 
