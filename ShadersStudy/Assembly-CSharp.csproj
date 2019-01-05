@@ -68,18 +68,22 @@
     <None Include="Assets\Shaders\MyFirstShader.shader" />
     <None Include="Assets\Shaders\AllProperties.shader" />
     <None Include="Assets\Shaders\BumpAndRefl.shader" />
+    <None Include="Assets\Shaders\RimLighting.shader" />
+    <None Include="Assets\Shaders\StripesShader.shader" />
     <None Include="Assets\Shaders\PackedPractice.shader" />
+    <None Include="Assets\Shaders\DotProduct.shader" />
+    <None Include="Assets\Shaders\CutOff.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>D:/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>D:/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>D:/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>

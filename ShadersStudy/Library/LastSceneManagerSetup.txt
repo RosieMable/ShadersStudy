@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ShaderStudy2.unity
+- path: Assets/Scenes/ShaderStudy3.unity
   isLoaded: 1
   isActive: 1
