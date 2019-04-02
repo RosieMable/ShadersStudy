@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ShaderGRaph.unity
+- path: Assets/Scenes/Blending.unity
   isLoaded: 1
   isActive: 1
