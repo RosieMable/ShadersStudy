@@ -145,6 +145,7 @@
     <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\Shaders\Lambert.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+    <None Include="Assets\Shaders\Dissolve.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Common.cginc" />
     <None Include="Assets\Shaders\AllProperties.shader" />
     <None Include="Assets\Shaders\StandardSpecPBR.shader" />
