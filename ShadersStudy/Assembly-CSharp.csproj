@@ -115,6 +115,7 @@
     <Compile Include="Assets\Scripts\MeshDeformerInput.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\Shaders\BumpDiffuse.shader" />
+    <None Include="Assets\Shaders\BlendTest.shader" />
     <None Include="Assets\Shaders\TextureChallenge.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
