@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Blending.unity
+- path: Assets/Scenes/StencilBuffer.unity
   isLoaded: 1
   isActive: 1
