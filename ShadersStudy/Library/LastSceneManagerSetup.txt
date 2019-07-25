@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/AdvanceStencil.unity
+- path: Assets/stencil/stencil.unity
   isLoaded: 1
   isActive: 1

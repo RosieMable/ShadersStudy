@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilWindow.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="480">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <marker date="1564050382303" expanded="true" signature="30:827" ph="{...}" />
@@ -22,8 +22,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilMask.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564069313504" expanded="true" signature="969:971" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -33,7 +49,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilMask.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilWindow.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1014" />
@@ -50,12 +68,12 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -108,11 +126,13 @@
       <workItem from="1563971385965" duration="10000" />
       <workItem from="1563972222783" duration="3000" />
       <workItem from="1564051644912" duration="2000" />
+      <workItem from="1564058414926" duration="2000" />
+      <workItem from="1564069657161" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20000" />
+    <option name="totallyTimeSpent" value="26000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -126,7 +146,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25596184" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2599364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -171,7 +191,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilWindow.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="480">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <marker date="1564050382303" expanded="true" signature="30:827" ph="{...}" />
@@ -180,6 +200,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilMask.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564069313504" expanded="true" signature="969:971" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
