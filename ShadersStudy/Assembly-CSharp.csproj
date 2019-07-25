@@ -114,6 +114,7 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\BumpDiffuse.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\BlendTest.shader" />
+    <None Include="Assets\Shaders\AdvancedStencil\BumpDiffuseStencil.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\TextureChallenge.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Fog.shader" />
