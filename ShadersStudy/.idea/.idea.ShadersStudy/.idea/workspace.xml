@@ -73,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1047">
+            <state relative-caret-position="1425">
               <caret line="95" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <marker date="1564144232315" expanded="true" signature="22:4125" ph="{...}" />
@@ -91,9 +91,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/ColorVF.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564157764320" expanded="true" signature="23:1410" ph="{...}" />
+                <marker date="1564157764320" expanded="true" signature="44:60" ph="{...}" />
+                <marker date="1564157764320" expanded="true" signature="79:1408" ph="{...}" />
+                <marker date="1564157764320" expanded="true" signature="158:1402" ph="{...}" />
+                <marker date="1564157764320" expanded="true" signature="181:1387" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1564157367096" expanded="true" signature="6:78" ph="..." />
+                <marker date="1564157367096" expanded="true" signature="117:450" ph="{...}" />
+                <marker date="1564157367096" expanded="true" signature="189:369" ph="{...}" />
+                <marker date="1564157367096" expanded="true" signature="328:363" ph="{...}" />
+                <marker date="1564157367096" expanded="true" signature="427:448" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="135">
               <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
                 <marker date="1564142771780" expanded="true" signature="6:92" ph="..." />
@@ -114,6 +145,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilMask.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilWindow.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/ColorVF.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs" root0="FORCE_HIGHLIGHTING" />
@@ -122,6 +155,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MeshData.cs" />
       </list>
     </option>
   </component>
@@ -137,13 +171,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -202,11 +236,14 @@
       <workItem from="1564069657161" duration="4000" />
       <workItem from="1564137431123" duration="2000" />
       <workItem from="1564142597363" duration="1555000" />
+      <workItem from="1564155367860" duration="2000" />
+      <workItem from="1564156969923" duration="3000" />
+      <workItem from="1564157298243" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1583000" />
+    <option name="totallyTimeSpent" value="2064000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -220,7 +257,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26430842" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27146265" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,9 +355,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <marker date="1564144232315" expanded="true" signature="22:4125" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="38:601" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="620:4123" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="778:864" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="886:4117" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="909:4102" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="135">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding>
             <marker date="1564142771780" expanded="true" signature="6:92" ph="..." />
@@ -331,17 +383,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader">
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/ColorVF.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1047">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state>
           <folding>
-            <marker date="1564144232315" expanded="true" signature="22:4125" ph="{...}" />
-            <marker date="1564144232315" expanded="true" signature="38:601" ph="{...}" />
-            <marker date="1564144232315" expanded="true" signature="620:4123" ph="{...}" />
-            <marker date="1564144232315" expanded="true" signature="778:864" ph="{...}" />
-            <marker date="1564144232315" expanded="true" signature="886:4117" ph="{...}" />
-            <marker date="1564144232315" expanded="true" signature="909:4102" ph="{...}" />
+            <marker date="1564157764320" expanded="true" signature="23:1410" ph="{...}" />
+            <marker date="1564157764320" expanded="true" signature="44:60" ph="{...}" />
+            <marker date="1564157764320" expanded="true" signature="79:1408" ph="{...}" />
+            <marker date="1564157764320" expanded="true" signature="158:1402" ph="{...}" />
+            <marker date="1564157764320" expanded="true" signature="181:1387" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1564157367096" expanded="true" signature="6:78" ph="..." />
+            <marker date="1564157367096" expanded="true" signature="117:450" ph="{...}" />
+            <marker date="1564157367096" expanded="true" signature="189:369" ph="{...}" />
+            <marker date="1564157367096" expanded="true" signature="328:363" ph="{...}" />
+            <marker date="1564157367096" expanded="true" signature="427:448" ph="{...}" />
           </folding>
         </state>
       </provider>

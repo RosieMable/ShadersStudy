@@ -110,6 +110,7 @@
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\RaycastMousePOs.cs" />
     <Compile Include="Assets\RoundedCube.cs" />
+    <Compile Include="Assets\Scripts\MeshData.cs" />
     <Compile Include="Assets\Scripts\MeshDeformer.cs" />
     <Compile Include="Assets\Scripts\MeshDeformerInput.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
@@ -122,6 +123,7 @@
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\LutGen.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\Leaves.shader" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\ColorVF.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\Hologram.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
@@ -179,9 +181,10 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\ToonShader.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
-    <None Include="Assets\Shaders\StencilBuffer\Hole.shader" />
+    <None Include="Assets\Materials\Hole.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\DotProduct.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\Vertex&amp;Fragment.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\CutOff.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <Reference Include="Unity.TextMeshPro.Editor">

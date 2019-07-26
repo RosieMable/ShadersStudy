@@ -13,6 +13,9 @@
           <e p="Rotate.cs" t="Include" />
         </e>
         <e p="InteractiveShadersEffect.cs" t="Include" />
+        <e p="Materials" t="Include">
+          <e p="Hole.shader" t="Include" />
+        </e>
         <e p="PostProcessing" t="Include">
           <e p="Editor" t="Include">
             <e p="Attributes" t="Include">
@@ -179,6 +182,7 @@
         <e p="Rounded Cube Grid.shader" t="Include" />
         <e p="RoundedCube.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="MeshData.cs" t="Include" />
           <e p="MeshDeformer.cs" t="Include" />
           <e p="MeshDeformerInput.cs" t="Include" />
         </e>
@@ -218,8 +222,11 @@
             <e p="ToonShader.shader" t="Include" />
           </e>
           <e p="StencilBuffer" t="Include">
-            <e p="Hole.shader" t="Include" />
             <e p="Wall.shader" t="Include" />
+          </e>
+          <e p="Vertex&amp;Fragment" t="Include">
+            <e p="ColorVF.shader" t="Include" />
+            <e p="Vertex&amp;Fragment.shader" t="Include" />
           </e>
         </e>
       </e>
