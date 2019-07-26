@@ -17,6 +17,11 @@
               <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <marker date="1564050382303" expanded="true" signature="30:827" ph="{...}" />
+                <marker date="1564050382303" expanded="true" signature="43:395" ph="{...}" />
+                <marker date="1564050382303" expanded="true" signature="90:199" ph="/* Stencil properties ... */" />
+                <marker date="1564050382303" expanded="true" signature="406:824" ph="{...}" />
+                <marker date="1564050382303" expanded="true" signature="486:552" ph="{...}" />
+                <marker date="1564050382303" expanded="true" signature="564:813" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -24,7 +29,16 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1563958471906" expanded="true" signature="33:926" ph="{...}" />
+                <marker date="1563958471906" expanded="true" signature="47:338" ph="{...}" />
+                <marker date="1563958471906" expanded="true" signature="351:904" ph="{...}" />
+                <marker date="1563958471906" expanded="true" signature="367:896" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -32,15 +46,63 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1564069313504" expanded="true" signature="969:971" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="112:971" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="127:177" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="191:969" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="204:285" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="337:423" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="436:964" ph="{...}" />
+                <marker date="1564069313504" expanded="true" signature="458:950" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564133097904" expanded="true" signature="32:1824" ph="{...}" />
+                <marker date="1564133097904" expanded="true" signature="53:304" ph="{...}" />
+                <marker date="1564133097904" expanded="true" signature="323:1799" ph="{...}" />
+                <marker date="1564133097904" expanded="true" signature="396:504" ph="{...}" />
+                <marker date="1564133097904" expanded="true" signature="523:1788" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1047">
+              <caret line="95" selection-start-line="95" selection-end-line="95" />
+              <folding>
+                <marker date="1564144232315" expanded="true" signature="22:4125" ph="{...}" />
+                <marker date="1564144232315" expanded="true" signature="38:601" ph="{...}" />
+                <marker date="1564144232315" expanded="true" signature="620:4123" ph="{...}" />
+                <marker date="1564144232315" expanded="true" signature="778:864" ph="{...}" />
+                <marker date="1564144232315" expanded="true" signature="886:4117" ph="{...}" />
+                <marker date="1564144232315" expanded="true" signature="909:4102" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <marker date="1564142771780" expanded="true" signature="6:92" ph="..." />
+                <marker date="1564142771780" expanded="true" signature="147:696" ph="{...}" />
+                <marker date="1564142771780" expanded="true" signature="270:433" ph="{...}" />
+                <marker date="1564142771780" expanded="true" signature="495:694" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -49,9 +111,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilMask.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilWindow.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1014" />
@@ -128,11 +200,13 @@
       <workItem from="1564051644912" duration="2000" />
       <workItem from="1564058414926" duration="2000" />
       <workItem from="1564069657161" duration="4000" />
+      <workItem from="1564137431123" duration="2000" />
+      <workItem from="1564142597363" duration="1555000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26000" />
+    <option name="totallyTimeSpent" value="1583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +220,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2599364" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26430842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -195,24 +269,82 @@
           <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <marker date="1564050382303" expanded="true" signature="30:827" ph="{...}" />
+            <marker date="1564050382303" expanded="true" signature="43:395" ph="{...}" />
+            <marker date="1564050382303" expanded="true" signature="90:199" ph="/* Stencil properties ... */" />
+            <marker date="1564050382303" expanded="true" signature="406:824" ph="{...}" />
+            <marker date="1564050382303" expanded="true" signature="486:552" ph="{...}" />
+            <marker date="1564050382303" expanded="true" signature="564:813" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563958471906" expanded="true" signature="33:926" ph="{...}" />
+            <marker date="1563958471906" expanded="true" signature="47:338" ph="{...}" />
+            <marker date="1563958471906" expanded="true" signature="351:904" ph="{...}" />
+            <marker date="1563958471906" expanded="true" signature="367:896" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilMask.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1564069313504" expanded="true" signature="969:971" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="112:971" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="127:177" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="191:969" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="204:285" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="337:423" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="436:964" ph="{...}" />
+            <marker date="1564069313504" expanded="true" signature="458:950" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564133097904" expanded="true" signature="32:1824" ph="{...}" />
+            <marker date="1564133097904" expanded="true" signature="53:304" ph="{...}" />
+            <marker date="1564133097904" expanded="true" signature="323:1799" ph="{...}" />
+            <marker date="1564133097904" expanded="true" signature="396:504" ph="{...}" />
+            <marker date="1564133097904" expanded="true" signature="523:1788" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/InteractiveShadersEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <marker date="1564142771780" expanded="true" signature="6:92" ph="..." />
+            <marker date="1564142771780" expanded="true" signature="147:696" ph="{...}" />
+            <marker date="1564142771780" expanded="true" signature="270:433" ph="{...}" />
+            <marker date="1564142771780" expanded="true" signature="495:694" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1047">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+          <folding>
+            <marker date="1564144232315" expanded="true" signature="22:4125" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="38:601" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="620:4123" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="778:864" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="886:4117" ph="{...}" />
+            <marker date="1564144232315" expanded="true" signature="909:4102" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
