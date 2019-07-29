@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CubeSphere.cs" />
+    <Compile Include="Assets\Graphics\FastNoise.cs" />
     <Compile Include="Assets\Graphics\NormalPlay.cs" />
     <Compile Include="Assets\Graphics\Rotate.cs" />
     <Compile Include="Assets\InteractiveShadersEffect.cs" />
@@ -131,12 +132,14 @@
     <None Include="Assets\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
     <None Include="Assets\Shaders\AdvancedStencil\StencilGeometry.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\ACES.cginc" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\VFShadows.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
     <None Include="Assets\Shaders\ShaderTutorial\BasicLambert.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\Rounded Cube Grid.shader" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\VFMat.shader" />
     <None Include="Assets\Shaders\AdvancedStencil\StencilMask.shader" />
     <None Include="Assets\Shaders\AdvancedStencil\StencilWindow.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Blit.shader" />
@@ -164,6 +167,7 @@
     <None Include="Assets\Shaders\InteractiveWaters\Water.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\VFLighting.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
     <None Include="Assets\Shaders\ShaderTutorial\StandardPBR.shader" />
@@ -181,11 +185,13 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\ToonShader.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
-    <None Include="Assets\Materials\Hole.shader" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\VFDiffuseShadows.shader" />
+    <None Include="Assets\Shaders\StencilBuffer\Hole.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\DotProduct.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\Shaders\Vertex&amp;Fragment\Vertex&amp;Fragment.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\CutOff.shader" />
+    <None Include="Assets\Shaders\Vertex&amp;Fragment\ExtrudeShader.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Antonella/Documents/GitHub/ShadersStudy/ShadersStudy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

@@ -9,13 +9,11 @@
       <e p="Assets" t="Include">
         <e p="CubeSphere.cs" t="Include" />
         <e p="Graphics" t="Include">
+          <e p="FastNoise.cs" t="Include" />
           <e p="NormalPlay.cs" t="Include" />
           <e p="Rotate.cs" t="Include" />
         </e>
         <e p="InteractiveShadersEffect.cs" t="Include" />
-        <e p="Materials" t="Include">
-          <e p="Hole.shader" t="Include" />
-        </e>
         <e p="PostProcessing" t="Include">
           <e p="Editor" t="Include">
             <e p="Attributes" t="Include">
@@ -222,11 +220,17 @@
             <e p="ToonShader.shader" t="Include" />
           </e>
           <e p="StencilBuffer" t="Include">
+            <e p="Hole.shader" t="Include" />
             <e p="Wall.shader" t="Include" />
           </e>
           <e p="Vertex&amp;Fragment" t="Include">
             <e p="ColorVF.shader" t="Include" />
+            <e p="ExtrudeShader.shader" t="Include" />
             <e p="Vertex&amp;Fragment.shader" t="Include" />
+            <e p="VFDiffuseShadows.shader" t="Include" />
+            <e p="VFLighting.shader" t="Include" />
+            <e p="VFMat.shader" t="Include" />
+            <e p="VFShadows.shader" t="Include" />
           </e>
         </e>
       </e>
