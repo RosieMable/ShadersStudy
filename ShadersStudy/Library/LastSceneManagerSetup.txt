@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/3D Noise Flowfield.unity
+- path: Assets/Scenes/RayMarching.unity
   isLoaded: 1
   isActive: 1

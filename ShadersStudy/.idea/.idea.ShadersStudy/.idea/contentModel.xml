@@ -9,9 +9,7 @@
       <e p="Assets" t="Include">
         <e p="CubeSphere.cs" t="Include" />
         <e p="Graphics" t="Include">
-          <e p="FastNoise.cs" t="Include" />
           <e p="NormalPlay.cs" t="Include" />
-          <e p="Rotate.cs" t="Include" />
         </e>
         <e p="InteractiveShadersEffect.cs" t="Include" />
         <e p="PostProcessing" t="Include">
@@ -180,9 +178,14 @@
         <e p="Rounded Cube Grid.shader" t="Include" />
         <e p="RoundedCube.cs" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="FastNoise.cs" t="Include" />
+          <e p="flowFieldParticle.cs" t="Include" />
           <e p="MeshData.cs" t="Include" />
           <e p="MeshDeformer.cs" t="Include" />
           <e p="MeshDeformerInput.cs" t="Include" />
+          <e p="NoiseFlowfield.cs" t="Include" />
+          <e p="NoiseFlowfield1.cs" t="Include" />
+          <e p="Rotate.cs" t="Include" />
         </e>
         <e p="Shaders" t="Include">
           <e p="AdvancedStencil" t="Include">
@@ -193,6 +196,9 @@
           </e>
           <e p="InteractiveWaters" t="Include">
             <e p="Water.shader" t="Include" />
+          </e>
+          <e p="Raymarching" t="Include">
+            <e p="PrimativeSphere.shader" t="Include" />
           </e>
           <e p="ShaderTutorial" t="Include">
             <e p="AllProperties.shader" t="Include" />

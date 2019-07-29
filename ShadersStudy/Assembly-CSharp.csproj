@@ -60,9 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\CubeSphere.cs" />
-    <Compile Include="Assets\Graphics\FastNoise.cs" />
     <Compile Include="Assets\Graphics\NormalPlay.cs" />
-    <Compile Include="Assets\Graphics\Rotate.cs" />
     <Compile Include="Assets\InteractiveShadersEffect.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
@@ -111,9 +109,14 @@
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\RaycastMousePOs.cs" />
     <Compile Include="Assets\RoundedCube.cs" />
+    <Compile Include="Assets\Scripts\FastNoise.cs" />
+    <Compile Include="Assets\Scripts\flowFieldParticle.cs" />
     <Compile Include="Assets\Scripts\MeshData.cs" />
     <Compile Include="Assets\Scripts\MeshDeformer.cs" />
     <Compile Include="Assets\Scripts\MeshDeformerInput.cs" />
+    <Compile Include="Assets\Scripts\NoiseFlowfield.cs" />
+    <Compile Include="Assets\Scripts\NoiseFlowfield1.cs" />
+    <Compile Include="Assets\Scripts\Rotate.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\BumpDiffuse.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\BlendTest.shader" />
@@ -185,6 +188,7 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\ToonShader.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
+    <None Include="Assets\Shaders\Raymarching\PrimativeSphere.shader" />
     <None Include="Assets\Shaders\Vertex&amp;Fragment\VFDiffuseShadows.shader" />
     <None Include="Assets\Shaders\StencilBuffer\Hole.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\DotProduct.shader" />
