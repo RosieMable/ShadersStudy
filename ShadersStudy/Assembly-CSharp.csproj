@@ -172,6 +172,7 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
     <None Include="Assets\Shaders\Vertex&amp;Fragment\VFLighting.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\TAA.cginc" />
+    <None Include="Assets\Shaders\Raymarching\SphericalFog 1.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
     <None Include="Assets\Shaders\ShaderTutorial\StandardPBR.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\GrainGen.shader" />
@@ -181,8 +182,10 @@
     <None Include="Assets\Shaders\ShaderTutorial\RimLighting.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\StripesShader.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="Assets\Shaders\Raymarching\SphericalFog.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\ScrollingUV.shader" />
+    <None Include="Assets\Shaders\Raymarching\RayMarchClouds.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\PackedPractice.shader" />
     <None Include="Assets\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />

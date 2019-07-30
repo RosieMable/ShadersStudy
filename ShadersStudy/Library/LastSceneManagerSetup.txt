@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/RayMarching.unity
+- path: Assets/Scenes/RayMarchingClouds.unity
   isLoaded: 1
   isActive: 1
