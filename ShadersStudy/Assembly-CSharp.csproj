@@ -111,6 +111,7 @@
     <Compile Include="Assets\RoundedCube.cs" />
     <Compile Include="Assets\Scripts\FastNoise.cs" />
     <Compile Include="Assets\Scripts\flowFieldParticle.cs" />
+    <Compile Include="Assets\Scripts\FlyCamera.cs" />
     <Compile Include="Assets\Scripts\MeshData.cs" />
     <Compile Include="Assets\Scripts\MeshDeformer.cs" />
     <Compile Include="Assets\Scripts\MeshDeformerInput.cs" />

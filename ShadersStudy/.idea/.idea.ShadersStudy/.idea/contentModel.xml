@@ -180,6 +180,7 @@
         <e p="Scripts" t="Include">
           <e p="FastNoise.cs" t="Include" />
           <e p="flowFieldParticle.cs" t="Include" />
+          <e p="FlyCamera.cs" t="Include" />
           <e p="MeshData.cs" t="Include" />
           <e p="MeshDeformer.cs" t="Include" />
           <e p="MeshDeformerInput.cs" t="Include" />
@@ -199,6 +200,9 @@
           </e>
           <e p="Raymarching" t="Include">
             <e p="PrimativeSphere.shader" t="Include" />
+            <e p="RayMarchClouds.shader" t="Include" />
+            <e p="SphericalFog 1.shader" t="Include" />
+            <e p="SphericalFog.shader" t="Include" />
           </e>
           <e p="ShaderTutorial" t="Include">
             <e p="AllProperties.shader" t="Include" />

@@ -11,22 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshData.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#78#0" expanded="true" />
-                <marker date="1564157367096" expanded="true" signature="117:450" ph="{...}" />
-                <marker date="1564157367096" expanded="true" signature="189:369" ph="{...}" />
-                <marker date="1564157367096" expanded="true" signature="328:363" ph="{...}" />
-                <marker date="1564157367096" expanded="true" signature="427:448" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/VFLighting.shader">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
@@ -45,9 +29,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshDeformer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="405">
               <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding>
+                <marker date="1563958459592" expanded="true" signature="102:1144" ph="{...}" />
                 <marker date="1563958459592" expanded="true" signature="417:804" ph="{...}" />
                 <marker date="1563958459592" expanded="true" signature="656:732" ph="{...}" />
                 <marker date="1563958459592" expanded="true" signature="868:1006" ph="{...}" />
@@ -61,9 +46,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshDeformerInput.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="480">
               <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
               <folding>
+                <marker date="1564401856236" expanded="true" signature="66:1308" ph="{...}" />
                 <marker date="1564401856236" expanded="true" signature="389:485" ph="{...}" />
                 <marker date="1564401856236" expanded="true" signature="432:479" ph="{...}" />
                 <marker date="1564401856236" expanded="true" signature="509:1304" ph="{...}" />
@@ -91,10 +77,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="555">
               <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
               <folding>
-                <element signature="e#0#122#0" expanded="true" />
+                <marker date="1564413015651" expanded="true" signature="6:122" ph="..." />
                 <marker date="1564413015651" expanded="true" signature="232:3781" ph="{...}" />
                 <marker date="1564413015651" expanded="true" signature="720:1127" ph="{...}" />
                 <marker date="1564413015651" expanded="true" signature="807:997" ph="{...}" />
@@ -120,6 +106,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
+                <marker date="1564411381230" expanded="false" signature="6:78" ph="..." />
                 <marker date="1564411381230" expanded="true" signature="126:300" ph="{...}" />
                 <marker date="1564411381230" expanded="true" signature="198:219" ph="{...}" />
                 <marker date="1564411381230" expanded="true" signature="277:298" ph="{...}" />
@@ -143,17 +130,54 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/RayMarchClouds.shader">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1564499810531" expanded="true" signature="30:8546" ph="{...}" />
+                <marker date="1564499810531" expanded="true" signature="51:474" ph="{...}" />
+                <marker date="1564499810531" expanded="true" signature="493:8544" ph="{...}" />
+                <marker date="1564499810531" expanded="true" signature="674:8538" ph="{...}" />
+                <marker date="1564499810531" expanded="true" signature="697:8523" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+              <folding>
+                <marker date="1564501595909" expanded="true" signature="6:58" ph="..." />
+                <marker date="1564501595909" expanded="true" signature="100:3032" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="108:532" ph="/* Writen by Windexglow 11-13-10.  Use it, edit it, steal it I don't care. ... */" />
+                <marker date="1564501595909" expanded="true" signature="996:1092" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="1113:2459" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="1461:1526" ph="/* Mouse  camera angle done. ... */" />
+                <marker date="1564501595909" expanded="true" signature="1632:1896" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="1896:2015" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2145:2385" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2385:2445" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2501:3030" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2644:2704" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2742:2802" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2840:2900" ph="{...}" />
+                <marker date="1564501595909" expanded="true" signature="2938:2997" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="30">
               <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
               <folding>
+                <marker date="1564410835975" expanded="false" signature="6:92" ph="..." />
                 <marker date="1564410835975" expanded="true" signature="203:1658" ph="{...}" />
                 <marker date="1564410835975" expanded="true" signature="420:441" ph="{...}" />
                 <marker date="1564410835975" expanded="true" signature="499:520" ph="{...}" />
@@ -178,8 +202,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/PrimativeSphere.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/flowFieldParticle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/ColorVF.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/RayMarchClouds.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/ShaderTutorial/BumpDiffuse.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/InteractiveWaters/Water.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield1.cs" root0="FORCE_HIGHLIGHTING" />
@@ -200,6 +226,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield1.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Raymarching/PrimativeSphere.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs" />
       </list>
     </option>
   </component>
@@ -215,15 +242,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,11 +319,12 @@
       <workItem from="1564412608145" duration="1051000" />
       <workItem from="1564414614240" duration="1759000" />
       <workItem from="1564489522525" duration="3000" />
+      <workItem from="1564500632051" duration="1310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9581000" />
+    <option name="totallyTimeSpent" value="10891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -310,7 +338,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29292527" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29531002" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -480,9 +508,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshDeformer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="405">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding>
+            <marker date="1563958459592" expanded="true" signature="102:1144" ph="{...}" />
             <marker date="1563958459592" expanded="true" signature="417:804" ph="{...}" />
             <marker date="1563958459592" expanded="true" signature="656:732" ph="{...}" />
             <marker date="1563958459592" expanded="true" signature="868:1006" ph="{...}" />
@@ -494,9 +523,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshDeformerInput.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="480">
           <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding>
+            <marker date="1564401856236" expanded="true" signature="66:1308" ph="{...}" />
             <marker date="1564401856236" expanded="true" signature="389:485" ph="{...}" />
             <marker date="1564401856236" expanded="true" signature="432:479" ph="{...}" />
             <marker date="1564401856236" expanded="true" signature="509:1304" ph="{...}" />
@@ -520,10 +550,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="555">
           <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
           <folding>
-            <element signature="e#0#122#0" expanded="true" />
+            <marker date="1564413015651" expanded="true" signature="6:122" ph="..." />
             <marker date="1564413015651" expanded="true" signature="232:3781" ph="{...}" />
             <marker date="1564413015651" expanded="true" signature="720:1127" ph="{...}" />
             <marker date="1564413015651" expanded="true" signature="807:997" ph="{...}" />
@@ -555,9 +585,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/PrimativeSphere.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+          <folding>
+            <marker date="1564475574174" expanded="true" signature="31:2494" ph="{...}" />
+            <marker date="1564475574174" expanded="true" signature="51:2492" ph="{...}" />
+            <marker date="1564475574174" expanded="true" signature="165:2486" ph="{...}" />
+            <marker date="1564475574174" expanded="true" signature="188:2471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="30">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding>
             <marker date="1564410835975" expanded="false" signature="6:92" ph="..." />
@@ -572,21 +615,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/PrimativeSphere.shader">
+    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/RayMarchClouds.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="65" selection-start-line="53" selection-start-column="65" selection-end-line="53" selection-end-column="65" />
+        <state>
           <folding>
-            <marker date="1564475574174" expanded="true" signature="31:2494" ph="{...}" />
-            <marker date="1564475574174" expanded="true" signature="51:2492" ph="{...}" />
-            <marker date="1564475574174" expanded="true" signature="165:2486" ph="{...}" />
-            <marker date="1564475574174" expanded="true" signature="188:2471" ph="{...}" />
+            <marker date="1564499810531" expanded="true" signature="30:8546" ph="{...}" />
+            <marker date="1564499810531" expanded="true" signature="51:474" ph="{...}" />
+            <marker date="1564499810531" expanded="true" signature="493:8544" ph="{...}" />
+            <marker date="1564499810531" expanded="true" signature="674:8538" ph="{...}" />
+            <marker date="1564499810531" expanded="true" signature="697:8523" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/RayMarchClouds.shader">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+          <folding>
+            <marker date="1564501595909" expanded="true" signature="6:58" ph="..." />
+            <marker date="1564501595909" expanded="true" signature="100:3032" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="108:532" ph="/* Writen by Windexglow 11-13-10.  Use it, edit it, steal it I don't care. ... */" />
+            <marker date="1564501595909" expanded="true" signature="996:1092" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="1113:2459" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="1461:1526" ph="/* Mouse  camera angle done. ... */" />
+            <marker date="1564501595909" expanded="true" signature="1632:1896" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="1896:2015" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2145:2385" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2385:2445" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2501:3030" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2644:2704" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2742:2802" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2840:2900" ph="{...}" />
+            <marker date="1564501595909" expanded="true" signature="2938:2997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
