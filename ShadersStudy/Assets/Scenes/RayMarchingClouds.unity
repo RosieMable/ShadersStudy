@@ -130,7 +130,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &248000992
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -284,6 +284,7 @@ GameObject:
   - component: {fileID: 1484256626}
   - component: {fileID: 1484256625}
   - component: {fileID: 1484256628}
+  - component: {fileID: 1484256629}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -368,3 +369,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mainSpeed: 1
+--- !u!114 &1484256629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484256624}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ef5a56a11da496419fd5c36167d35c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CloudsShader: {fileID: 4800000, guid: bd5a741d3f24ba441bc05463c1e5fd12, type: 3}
+  minHeight: 0
+  maxHeight: 5
+  fadeDist: 2
+  Scale: 5
+  Steps: 50
+  ValueNoiseImage: {fileID: 2800000, guid: 067d20b671195304ab03d26c9c16f33c, type: 3}
+  Sun: {fileID: 1108398571}

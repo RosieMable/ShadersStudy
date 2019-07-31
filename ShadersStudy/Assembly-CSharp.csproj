@@ -109,6 +109,7 @@
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\RaycastMousePOs.cs" />
     <Compile Include="Assets\RoundedCube.cs" />
+    <Compile Include="Assets\Scripts\Clouds.cs" />
     <Compile Include="Assets\Scripts\FastNoise.cs" />
     <Compile Include="Assets\Scripts\flowFieldParticle.cs" />
     <Compile Include="Assets\Scripts\FlyCamera.cs" />
@@ -185,6 +186,7 @@
     <None Include="Assets\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
     <None Include="Assets\Shaders\Raymarching\SphericalFog.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\Bloom.shader" />
+    <None Include="Assets\Shaders\Raymarching\CloudsCamera.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\ScrollingUV.shader" />
     <None Include="Assets\Shaders\Raymarching\RayMarchClouds.shader" />
     <None Include="Assets\Shaders\ShaderTutorial\PackedPractice.shader" />

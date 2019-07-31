@@ -11,22 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/VFLighting.shader">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-              <folding>
-                <marker date="1564392436435" expanded="true" signature="26:2171" ph="{...}" />
-                <marker date="1564392436435" expanded="true" signature="47:100" ph="{...}" />
-                <marker date="1564392436435" expanded="true" signature="119:2169" ph="{...}" />
-                <marker date="1564392436435" expanded="true" signature="357:2163" ph="{...}" />
-                <marker date="1564392436435" expanded="true" signature="380:2148" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MeshDeformer.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -135,20 +119,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <marker date="1564499810531" expanded="true" signature="30:8546" ph="{...}" />
-                <marker date="1564499810531" expanded="true" signature="51:474" ph="{...}" />
-                <marker date="1564499810531" expanded="true" signature="493:8544" ph="{...}" />
-                <marker date="1564499810531" expanded="true" signature="674:8538" ph="{...}" />
-                <marker date="1564499810531" expanded="true" signature="697:8523" ph="{...}" />
+                <marker date="1564568455677" expanded="true" signature="30:9182" ph="{...}" />
+                <marker date="1564568455677" expanded="true" signature="51:474" ph="{...}" />
+                <marker date="1564568455677" expanded="true" signature="493:9180" ph="{...}" />
+                <marker date="1564568455677" expanded="true" signature="674:9174" ph="{...}" />
+                <marker date="1564568455677" expanded="true" signature="697:9159" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="330">
               <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
               <folding>
                 <marker date="1564501595909" expanded="true" signature="6:58" ph="..." />
@@ -166,6 +150,31 @@
                 <marker date="1564501595909" expanded="true" signature="2742:2802" ph="{...}" />
                 <marker date="1564501595909" expanded="true" signature="2840:2900" ph="{...}" />
                 <marker date="1564501595909" expanded="true" signature="2938:2997" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Clouds.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="923">
+              <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+              <folding>
+                <marker date="1564573930554" expanded="true" signature="6:32" ph="..." />
+                <marker date="1564573930554" expanded="true" signature="90:2926" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="544:1120" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="562:1114" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="631:715" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="775:848" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="944:1073" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="1224:1287" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="1322:1793" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="1888:2924" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="1952:2030" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="2057:2120" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="2214:2291" ph="{...}" />
+                <marker date="1564573930554" expanded="true" signature="2304:2379" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -202,6 +211,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/PrimativeSphere.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/flowFieldParticle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clouds.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/AdvancedStencil/StencilGeometry.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/Vertex&amp;Fragment/ColorVF.shader" root0="FORCE_HIGHLIGHTING" />
@@ -227,6 +237,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Raymarching/PrimativeSphere.shader" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Clouds.cs" />
       </list>
     </option>
   </component>
@@ -246,11 +257,11 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,11 +331,14 @@
       <workItem from="1564414614240" duration="1759000" />
       <workItem from="1564489522525" duration="3000" />
       <workItem from="1564500632051" duration="1310000" />
+      <workItem from="1564569468628" duration="1359000" />
+      <workItem from="1564572103225" duration="1109000" />
+      <workItem from="1564573375894" duration="563000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10891000" />
+    <option name="totallyTimeSpent" value="13922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +352,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29531002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30246422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -598,39 +612,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <marker date="1564410835975" expanded="false" signature="6:92" ph="..." />
-            <marker date="1564410835975" expanded="true" signature="203:1658" ph="{...}" />
-            <marker date="1564410835975" expanded="true" signature="420:441" ph="{...}" />
-            <marker date="1564410835975" expanded="true" signature="499:520" ph="{...}" />
-            <marker date="1564410835975" expanded="true" signature="553:1656" ph="{...}" />
-            <marker date="1564410835975" expanded="true" signature="677:1650" ph="{...}" />
-            <marker date="1564410835975" expanded="true" signature="778:1607" ph="{...}" />
-            <marker date="1564410835975" expanded="true" signature="878:1556" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Shaders/Raymarching/RayMarchClouds.shader">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1564499810531" expanded="true" signature="30:8546" ph="{...}" />
-            <marker date="1564499810531" expanded="true" signature="51:474" ph="{...}" />
-            <marker date="1564499810531" expanded="true" signature="493:8544" ph="{...}" />
-            <marker date="1564499810531" expanded="true" signature="674:8538" ph="{...}" />
-            <marker date="1564499810531" expanded="true" signature="697:8523" ph="{...}" />
+            <marker date="1564568455677" expanded="true" signature="30:9182" ph="{...}" />
+            <marker date="1564568455677" expanded="true" signature="51:474" ph="{...}" />
+            <marker date="1564568455677" expanded="true" signature="493:9180" ph="{...}" />
+            <marker date="1564568455677" expanded="true" signature="674:9174" ph="{...}" />
+            <marker date="1564568455677" expanded="true" signature="697:9159" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FlyCamera.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="330">
           <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
           <folding>
             <marker date="1564501595909" expanded="true" signature="6:58" ph="..." />
@@ -648,6 +645,46 @@
             <marker date="1564501595909" expanded="true" signature="2742:2802" ph="{...}" />
             <marker date="1564501595909" expanded="true" signature="2840:2900" ph="{...}" />
             <marker date="1564501595909" expanded="true" signature="2938:2997" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NoiseFlowfield1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <marker date="1564410835975" expanded="false" signature="6:92" ph="..." />
+            <marker date="1564410835975" expanded="true" signature="203:1658" ph="{...}" />
+            <marker date="1564410835975" expanded="true" signature="420:441" ph="{...}" />
+            <marker date="1564410835975" expanded="true" signature="499:520" ph="{...}" />
+            <marker date="1564410835975" expanded="true" signature="553:1656" ph="{...}" />
+            <marker date="1564410835975" expanded="true" signature="677:1650" ph="{...}" />
+            <marker date="1564410835975" expanded="true" signature="778:1607" ph="{...}" />
+            <marker date="1564410835975" expanded="true" signature="878:1556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Clouds.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="923">
+          <caret line="99" column="61" selection-start-line="99" selection-start-column="61" selection-end-line="99" selection-end-column="61" />
+          <folding>
+            <marker date="1564573930554" expanded="true" signature="6:32" ph="..." />
+            <marker date="1564573930554" expanded="true" signature="90:2926" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="544:1120" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="562:1114" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="631:715" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="775:848" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="944:1073" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="1224:1287" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="1322:1793" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="1888:2924" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="1952:2030" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="2057:2120" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="2214:2291" ph="{...}" />
+            <marker date="1564573930554" expanded="true" signature="2304:2379" ph="{...}" />
           </folding>
         </state>
       </provider>
